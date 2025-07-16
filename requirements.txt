@@ -1,0 +1,13 @@
+azure-identity
+azure-mgmt-resource
+azure-mgmt-network
+azure-mgmt-compute
+azure-mgmt-dns
+azure-mgmt-storage
+azure-storage-blob
+dnspython
+python-dotenv
+msal
+azure-functions
+cryptography==43.0.3
+mysql
